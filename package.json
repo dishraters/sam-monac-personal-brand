@@ -1,0 +1,8 @@
+{
+  "name": "sam-monac-personal-brand",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/verify-site.mjs"
+  }
+}

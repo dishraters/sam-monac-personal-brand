@@ -1,0 +1,16 @@
+{
+  "name": "Sam Monac",
+  "short_name": "Sam Monac",
+  "description": "Sam Monac builds practical AI systems, operator workflows, and implementation-first automation for small businesses.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f2ea",
+  "theme_color": "#171512",
+  "icons": [
+    {
+      "src": "/profile.jpg",
+      "sizes": "263x284",
+      "type": "image/jpeg"
+    }
+  ]
+}
