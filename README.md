@@ -24,3 +24,7 @@ Hermes should grow this into a proof engine:
 4. Keep CTAs tied to AI Business Boomer audits and implementation calls.
 
 Do not invent credentials, clients, testimonials, ranking claims, revenue claims, or fake press.
+
+## Design Framework
+
+Use `DESIGN_UPGRADE_PROMPT.md` with the Impeccable skill when this site needs another design pass. The current register is captured in `PRODUCT.md` and the visual system is captured in `DESIGN.md`.
